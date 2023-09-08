@@ -63,3 +63,6 @@ var minSpeedOnTime = function(dist, hour) {
 };
 
 console.log(minSpeedOnTime([1,3,2], 6))
+
+
+//题解
